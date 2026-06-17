@@ -40,7 +40,7 @@ To configure the server for your device:
 2.  Enter the URL of your active API backend:
     *   **Live Cloud Service (Render)**: Set the server URL to your deployed Render service endpoint:
         ```
-        https://phishguard-backend.onrender.com
+        https://phishguard-backend-drrz.onrender.com
         ```
     *   **Local Computer Wi-Fi**: If you are running the backend FastAPI server locally (`python3 main.py` in the `backend` directory) on the same Wi-Fi network as your phone, enter:
         ```
