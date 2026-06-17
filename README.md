@@ -6,6 +6,14 @@ PhishGuard India is a specialized threat scanner designed to protect Indian mobi
 
 ---
 
+## 📱 Application Interface
+
+Here is a preview of the PhishGuard India application interface running on the Android Emulator during a statement scan verification:
+
+![PhishGuard Emulator Preview](./emulator_screenshot.png)
+
+---
+
 ## 📥 1. Download the App
 
 Download either of the compiled Android package binaries below directly to your Android device:
