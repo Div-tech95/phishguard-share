@@ -15,14 +15,14 @@ The premium landing page in English showing the updated security suite ready to 
 ## 1. English UI & SMS Testing
 
 ### SMS Verification Input
-Input interface for checking a legitimate DLT transactional banking SMS.
+Input interface for checking a banking SMS.
 
 ![SMS Test 1 Input](App%20result/2.%20SMS_Test-1.jpeg)
 
 ---
 
-### Safe SMS Scan Result
-Verification result flagging the DLT-compliant bank transaction as low risk.
+### Critical SMS Scan Result
+Verification result flagging the SMS is coming from the private number and flagged Critical for Banking service.
 
 ![SMS Test 1 Result](App%20result/3.%20SMS_Test-1-result.jpeg)
 
