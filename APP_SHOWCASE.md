@@ -26,6 +26,8 @@ Verification result flagging the SMS is coming from the private number and flagg
 
 ![SMS Test 1 Result](App%20result/3.%20SMS_Test-1-result.jpeg)
 
+![SMS Test 1 Result](App%20result/4.%20SMS_Test-1-result.jpeg)
+
 ---
 
 ### SMS Scam Input
